@@ -23,8 +23,8 @@
 * Messages - Time spent on Messages per week(hrs)
 * Total Social Media Screen Time - Total time spent on social media per week(hrs)
 * Social Media Addiction Level - Is the person addicted to social media?
-##### Times opened >= 70 - Addicted 
-##### Times opened < 70 - Not Addicted 
+##### Times opened >= 105 - Addicted 
+##### Times opened < 105 - Not Addicted 
 ##### Considering the 24-hour slots in a day, how many hour slots did the user open social media apps? This is for one day. 
 ##### Consider the above count and add the daily counts over the week and input that data
 
